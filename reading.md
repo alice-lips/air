@@ -10,8 +10,9 @@ Mainly on language acquisition (for AI research)
   - Compare two recent approaches, a Bayesian model (Barak et al., 2014) )and a connectionist model (Ambridge and Blything, 2015), in their ability to replicate human judgments of appropriate generalizations.
   - Find that the Bayesian model more accurately mimics the judgments due to its richer learning mechanism that can exploit distributional properties of the input.
 - Meylan et al. (2017) [The Emergence of an Abstract Grammatical Category in Children’s EarlySpeech](http://langcog.stanford.edu/papers_new/meylan-inpress-psychsci.pdf)
+- Monaghan (2016) [Degeneracy results in canalisation of language structure: A computational model of word learning](https://mindmodeling.org/cogsci2016/papers/0299/paper0299.pdf)
 
-Books
+books
 
 - Tomasello (2010) [Origins of Human Communication (Jean Nicod Lectures)](https://www.amazon.com/dp/0262515202)
 - Tomasello (2003) [Constructing a Language: A Usage-Based Theory of Kanguage Acquisition](https://www.amazon.com/dp/0674017641)
